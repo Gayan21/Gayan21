@@ -5,6 +5,6 @@
  🔭 I’m currently working on Ios development and android development
  🌱 I’m currently learning swift 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gayan21&theme=gotham&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=gotham&show_icons=true)
 
 
